@@ -1,3 +1,3 @@
 # validate sql-injection
 
-This code will validate regex operation against `sql injection`
+This code will validate regex expression against `sql injection`
