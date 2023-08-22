@@ -1,5 +1,7 @@
 import re
 
+password = "P@ssw0rd"
+
 f = open("sqlcheetsheet")
 for test_str in f:
     regex = r"^[a-zA-Z ,.'-]+$"
